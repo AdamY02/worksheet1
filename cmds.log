@@ -1,0 +1,34 @@
+    1  passwd
+    2  exit
+    3  wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    4  sudo dnf install git-all
+    5  sudo apt install git-all
+    6  git --version
+    7  exit
+    8  pwd
+    9  git - version
+   10  git -version
+   11  git --version
+   12  ls
+   13  git init
+   14  ls
+   15  touch newfile.txt
+   16  ls
+   17  git status
+   18  git add newfile.txt 
+   19  git status
+   20  git commit -m "first commit"
+   21  git remote add origin https://github.com/AdamY02/worksheet1.git
+   22  push -u origin master
+   23  git push -u origin master
+   24  git commit -m "first commit"
+   25  git config user.email "jiajie.yin01@sjsu.edu"
+   26  git config user.name "Your name"
+   27  git commit -m "first time commit"
+   28  git push -u origin master
+   29  git status
+   30  git push -u origin master
+   31  git push origin my-new-branch
+   32  git pull -v
+   33  git pull
+   34  history > cmds.log
